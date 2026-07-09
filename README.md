@@ -1,4 +1,3 @@
 # [Iceland-Travel-Agency](https://anamarijakrsteska.github.io/Iceland-Travel-Agency/#)
 # Front-end
-# Technologies used to build the visual interface of the website: <br />
-HTML, CSS, Bootstrap
+## Technologies used to build the visual interface of the website: HTML, CSS, Bootstrap
